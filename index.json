@@ -1,0 +1,10 @@
+{
+  "name": "Kaylane",
+  "age": 18,
+  "on_work": true,
+  "details_of_the_profession": {
+    "profission": "programmer",
+    "businnes": "Company S.A"
+  },
+  "hobby": ["program", "eat", "sleep all day", "run"]
+}
