@@ -20,11 +20,11 @@ const json = [
     hobby: ["eat", "sleep all day", "to cook"],
   },
 ];
-//converter objeto pra json
+// Convert object for JSON
 const jsonData = JSON.stringify(json);
 console.log(`de objeto pra json: ${jsonData}\n`);
 
-// converter json para objeto
+// Convert JSON for object 
 const objectData = JSON.parse(jsonData);
 console.log(`de json para objeto:\n ${objectData}`);
 
